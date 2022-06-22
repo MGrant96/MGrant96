@@ -2,4 +2,4 @@
 
 Mainly tutorials posted here.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGrant96)](https://github.com/MGrant96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGrant96&langs_count=10)](https://github.com/MGrant96/github-readme-stats)
